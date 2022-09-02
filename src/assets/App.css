@@ -1,0 +1,14 @@
+.conteudo {
+	display: flex;
+	flex-direction: column;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,400&display=swap'); */
+:root {
+	--primaria: #4fc1d3;
+	--secundaria: #ea841d;
+	--secundaria-ativa: #ea841db1;
+	--fundo: #fff;
+	--fundo-detalhes: #00518c;
+	color: #fff;
+}

@@ -1,0 +1,15 @@
+.lista-notas {
+	background-color: var(--fundo);
+	display: flex;
+	flex-direction: column;
+	list-style-type: none;
+	padding-left: 24px;
+	padding-top: 24px;
+	width: 50%;
+  }
+  .lista-notas_item {
+	margin: 12px;
+	max-width: 100%;
+	max-height: 400px;
+	display: inline;
+  }
